@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMAM</Machine>
+    <WindowsUser>Mohammed</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>44613c98-9c6e-4436-be01-7498b7837824</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\LiveTilesNotification\LiveTilesNotification.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6A6537819393C85FE6FE71EB38064785B8FF9C1E3B3921AD7C7762CE53D8B87C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>44613c98-9c6e-4436-be01-7498b7837824_1.0.0.0_neutral__ng8fjaqf7gktm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>44613c98-9c6e-4436-be01-7498b7837824_ng8fjaqf7gktm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>44613c98-9c6e-4436-be01-7498b7837824</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Mohammed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\LiveTilesNotification\LiveTilesNotification.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-09T21:58:30.805</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\LiveTilesNotification\LiveTilesNotification.Windows\bin\Debug\LiveTilesNotification.Windows.exe">
+      <PackagePath>LiveTilesNotification.Windows.exe</PackagePath>
+      <Modified>2015-03-09T21:58:10.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\packages\NotificationsExtensions.UniversalApps.1.0.3\lib\netcore451\NotificationsExtensions.winmd">
+      <PackagePath>NotificationsExtensions.winmd</PackagePath>
+      <Modified>2015-03-09T21:51:30.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\LiveTilesNotification\LiveTilesNotification.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\LiveTilesNotification\LiveTilesNotification.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\LiveTilesNotification\LiveTilesNotification.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\LiveTilesNotification\LiveTilesNotification.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\LiveTilesNotification\LiveTilesNotification.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-09T21:58:10.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\LiveTilesNotification\LiveTilesNotification.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-09T21:58:10.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\LiveTilesNotification\LiveTilesNotification.Windows\bin\Debug\LiveTilesNotification.Windows.xr.xml">
+      <PackagePath>LiveTilesNotification.Windows.xr.xml</PackagePath>
+      <Modified>2015-03-09T21:58:10.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\LiveTilesNotification\LiveTilesNotification\LiveTilesNotification.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-09T21:58:11.029</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
